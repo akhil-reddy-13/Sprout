@@ -1,0 +1,12 @@
+# Ignore Mac and build files
+.DS_Store
+build/
+dist/
+*.spec
+*.app
+*.zip
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
