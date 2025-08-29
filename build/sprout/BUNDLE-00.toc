@@ -1,1 +1,0 @@
-([('sprout', '/Users/asreddy/Code_Practice/Sprout/dist/sprout', 'EXECUTABLE')],)
